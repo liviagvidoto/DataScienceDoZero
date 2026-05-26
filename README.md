@@ -1,2 +1,2 @@
 # DataScienceDoZero
-Noções e FUndamentos da Ciência de dados com Python
+Noções e Fundamentos da Ciência de dados com Python
