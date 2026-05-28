@@ -113,7 +113,7 @@ pip install -r requirements.txt
 ```
 ---
 
-## 📦 Bíbiotecas utilizadas
+## 📦 Bíbiotecas utilizadas e principais dependências:
 
 ```txt
 matplotlib>=3.0
@@ -123,8 +123,6 @@ scikit-learn>=1.0
 scipy>=1.7
 tqdm>=4.0
 ```
-
-> ⚠️ O livro incentiva implementar os algoritmos **do zero** antes de usar bibliotecas. Use as dependências apenas para comparação e validação dos seus resultados.
 
 ---
 
