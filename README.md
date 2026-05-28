@@ -113,7 +113,7 @@ pip install -r requirements.txt
 ```
 ---
 
-## 📦 Dependências Principais
+## 📦 Bíbiotecas utilizadas
 
 ```txt
 matplotlib>=3.0
