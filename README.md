@@ -1,6 +1,3 @@
-# Livro: Data Science do Zero
-Noções e Fundamentos da Ciência de dados com Python
-=======
 # 📊 Data Science do Zero
 ### *Noções Fundamentais com Python* — Joel Grus
 
