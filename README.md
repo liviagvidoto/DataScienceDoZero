@@ -28,7 +28,7 @@ O fio condutor da obra é a empresa fictícia **DataSciencester**, uma rede soci
 
 ### Parte I — Fundamentos
 
-| Cap. | Título | Conteúdo Principal |
+| Capítulo | Título | Conteúdo Principal |
 |------|--------|-------------------|
 | 1 | **Introdução à Ciência de Dados** | O que é Data Science, o papel do cientista de dados, apresentação do DataSciencester |
 | 2 | **Curso Intensivo de Python** | Tipos, estruturas de dados, funções, classes, iteradores, generators, args/kwargs |
@@ -38,7 +38,7 @@ O fio condutor da obra é a empresa fictícia **DataSciencester**, uma rede soci
 
 ### Parte II — Matemática e Estatística
 
-| Cap. | Título | Conteúdo Principal |
+| Capítulo | Título | Conteúdo Principal |
 |------|--------|-------------------|
 | 4 | **Álgebra Linear** | Vetores, matrizes, operações — implementadas do zero |
 | 5 | **Estatística** | Tendência central, dispersão, correlação, paradoxo de Simpson |
@@ -50,7 +50,7 @@ O fio condutor da obra é a empresa fictícia **DataSciencester**, uma rede soci
 
 ### Parte III — Obtendo Dados
 
-| Cap. | Título | Conteúdo Principal |
+| Capítulo | Título | Conteúdo Principal |
 |------|--------|-------------------|
 | 9 | **Obtendo Dados** | stdin/stdout, leitura de arquivos, scraping, APIs, JSON |
 | 10 | **Trabalhando com Dados** | Exploração, limpeza, manipulação, redimensionamento e redução |
@@ -59,7 +59,7 @@ O fio condutor da obra é a empresa fictícia **DataSciencester**, uma rede soci
 
 ### Parte IV — Machine Learning
 
-| Cap. | Título | Conteúdo Principal |
+| Capítulo | Título | Conteúdo Principal |
 |------|--------|-------------------|
 | 11 | **Machine Learning** | Overfitting, underfitting, seleção de features, bias-variance tradeoff |
 | 12 | **K-Vizinhos Mais Próximos** | Classificação, regressão com KNN, maldição da dimensionalidade |
@@ -76,7 +76,7 @@ O fio condutor da obra é a empresa fictícia **DataSciencester**, uma rede soci
 
 ### Parte V — Tópicos Avançados
 
-| Cap. | Título | Conteúdo Principal |
+| Capítulo | Título | Conteúdo Principal |
 |------|--------|-------------------|
 | 21 | **Processamento de Linguagem Natural** | N-grams, modelos de linguagem, Word2Vec |
 | 22 | **Análise de Rede** | Centralidade, PageRank, redes direcionadas e não-direcionadas |
