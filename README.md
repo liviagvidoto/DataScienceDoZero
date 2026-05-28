@@ -156,14 +156,3 @@ tqdm>=4.0
 | Repositório oficial do autor | [github.com/joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) |
 | Editora Alta Books | [altabooks.com.br](https://altabooks.com.br/produto/data-science-do-zero/) |
 | O'Reilly (original) | [oreilly.com](https://www.oreilly.com/library/view/data-science-from/9781492041122/) |
-
-
-## 📄 Licença
-
-Este repositório contém anotações, exercícios e implementações para fins educacionais, baseados no livro *Data Science do Zero* de Joel Grus.  
-O livro é publicado pela **O'Reilly Media** — para uso do conteúdo original, consulte os termos da editora.
-
----
-
-*"Para realmente aprender data science, você não deve apenas dominar as ferramentas — mas também entender as ideias e princípios por trás delas."* — Joel Grus
->>>>>>> 7640de4 (adicionando arquivo README.md)
